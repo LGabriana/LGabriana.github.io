@@ -1,0 +1,107 @@
+.green{
+    background-color: #C3EB78;
+}
+#side{
+    height: 400px;
+}
+header{
+    margin: 10px;
+    background-color: #C3EB78;
+}
+nav{
+    border:black 1px solid;
+}
+#title{
+    border: black 3px solid;
+    background-color: white;
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    margin-left: 32%;
+    text-align: center;
+    margin-top: 20px;
+    padding-top:20px;
+}
+.bottomb{
+    border-bottom: solid 3px black;
+}
+body{
+    border: black 3px solid;
+}
+.head{
+    height: 50px;
+    text-align: center;
+    padding: 3px;
+    padding-bottom: 60px;
+    border-bottom: solid black 3px;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+  background: #eee;
+  font: 12px Lucida sans, Arial, Helvetica, sans-serif;
+  color: #333;
+  text-align: center;
+}
+.info {
+    border: black 3px solid;
+    height: 250px;
+    margin-bottom: 5px;
+}
+#history{
+    font-size:160%;
+    background-color: #b3b531;
+    color: black;
+}
+#ingredients{
+    font-size:135%;
+    background-color: #b3b531;
+    color: black;
+}
+#instructions{
+    font-size:135%;
+    height:310px ;
+    background-color: #b3b531;
+    color: black;
+}
+#med{
+    border: 3px black solid;
+    text-align: center;
+    height: 310px;
+    background-color: #b3b531;
+}
+#medi{
+    position: relative;
+    height: 200px;
+}
+#me{
+
+    margin-top: -110px ;
+    height: 200px;
+}
+footer{
+    border:black 3px solid ;
+    height: 20px;
+    color:black;
+}
+.head{
+    background-color:  #b07420;
+    padding-bottom: 80px;
+    color: black;
+}
+footer{
+    background-color:  #b07420;
+    height: 25px;
+}
+body{
+    background-color: #202124;
+    font-family: "Times New Roman", Times, serif;
+}
+#title{
+    background-color: #b3b531;
+    color:black;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
