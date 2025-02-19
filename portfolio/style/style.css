@@ -1,0 +1,91 @@
+body{
+    background-color: #ffffff;
+    color: #565656;
+    padding: 3px;
+}
+
+header{
+    background-color: #ffffff;
+    color: #565656;
+}
+h1{
+    color: #5b5b5b;
+}
+.sep{
+    background-color: #5b5b5b;
+    color: #b56357;
+}
+.jumbotron{
+    background-image:url("https://vastphotos.com/files/uploads/photos/11737/chicago-sunset-photo-l.jpg?v=20240918065643");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+article{
+    background-color: #d1d1d1;
+    margin: 10px;
+    height: 200px;
+}
+nav{
+    background-color: #5b5b5b ;
+    color: #ffffff;
+}
+
+
+body{
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.outline{
+    text-shadow: #565656 1px 1px;
+}
+
+footer{
+    color: #ffffff;
+    padding-bottom: 3px;
+}
+img{
+    margin-top: 10px;
+}
+#propho{
+    margin-left: 120px;
+    margin-top: 20px;
+    
+}
+p{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.photos{
+    border:5px solid #565656; 
+    padding:3px; 
+}
+
+#fit{
+    margin-left: 90px;
+}
+
+#wrestling{
+    margin-left: 30px;
+}
+a{
+    color: white;
+    font-size: 20px;
+}
+h3{
+    padding-top: 8px;
+}
+.carousel {
+    width:50%;
+    height:100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 350px;
+}
+
+.heading{
+    font-size: 60px;
+}
